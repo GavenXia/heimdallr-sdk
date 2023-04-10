@@ -1,4 +1,5 @@
 import { UnknownFunc } from '@heimdallr-sdk/types';
+// 核心代码
 
 /**
  * 发布订阅类
